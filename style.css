@@ -1,0 +1,28 @@
+body
+{
+    background: radial-gradient(rgb(238, 52, 83), rgb(242, 138, 172), rgb(240, 214, 219));
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px ;
+}
+
+#show_sketch
+{
+    float: right;    
+}
+h1
+{
+    background-color: rgba(240, 248, 255, 0.771);
+    font-family: 'Rubik Wet Paint', cursive;
+    letter-spacing: 5px;  
+    color: rgb(5, 48, 122); 
+}
+#update_score
+{
+    float: left;
+    color: darkblue;
+}
+#update_time
+{
+    float: right;
+    color: darkblue;
+}
